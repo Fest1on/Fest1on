@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://postimg.cc/9zG55btQ" align="center" style="width: 100%" />
 </div>  
-  
+![Logo](Fest1on/animated.gif)
+
 
 ### **<div align="center">Hello👋 i'm Festion</div>**  
   
