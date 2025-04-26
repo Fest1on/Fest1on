@@ -1,4 +1,4 @@
-![Logo](Fest1on/animated.gif)
+![Logo](animated.gif)
 <div align="center">
 </div>  
 
