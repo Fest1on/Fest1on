@@ -19,7 +19,7 @@
 </div>  
   
 
-- 😊 I use Arch BTW  
+- 😊 I use Fedora BTW  
   
 
 - ☠️ I attempted to create a RAT (Remote Access trojans) in Python, and I managed to do it successfully.  
